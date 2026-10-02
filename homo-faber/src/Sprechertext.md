@@ -1,0 +1,71 @@
+# Homo faber – Sprechertext (v3)
+
+Erzählstimme pro Folie, Start 800 ms nach Folienbeginn. Dauer = max(bisherige Dauer, Sprechzeit + 2,5 s).
+Sprechzeit hier **geschätzt** mit 2,3 Wörtern/s. Sobald Aufnahmen in `voice/vNN.mp3` liegen, rechnet `plan.js` mit der echten Länge.
+
+Gesamtlaufzeit: **643.3 s ≈ 10:43 min** (bisher 531 s).
+
+| Folie | Inhalt | Dauer alt → neu | Sprechzeit | Text | Beleg |
+|---:|---|---|---:|---|---|
+| 1 | Prolog | 12.0 s → **12.5 s** | ≈ 10.0 s | Der Philosoph Henri Bergson nannte den Menschen 1907 Homo faber: das Wesen, das Werkzeuge herstellt. Jedes Werkzeug in diesem Film hat zwei Seiten. | Bergson, L'Évolution créatrice (1907) |
+| 2 | Steinwerkzeug · Licht | 10.0 s → **13.0 s** | ≈ 10.4 s | Die ältesten bekannten Steinwerkzeuge stammen aus Lomekwi in Kenia, vermutlich gefertigt von frühen Vormenschen. Mit ihren scharfen Kanten ließ sich Fleisch von Knochen lösen. | Harmand et al., Nature 2015 |
+| 3 | Steinwerkzeug · Schatten | 9.0 s → **13.9 s** | ≈ 11.3 s | Ein rund 430.000 Jahre alter Schädel aus der Sima de los Huesos in Spanien trägt zwei Schlagverletzungen. Es ist womöglich der älteste bekannte Fall von Totschlag. | Sala et al., PLOS ONE 2015 |
+| 4 | Feuer · Licht | 10.0 s → **13.0 s** | ≈ 10.4 s | Asche und verbrannte Knochen in der Wonderwerk-Höhle in Südafrika zeigen Feuer vor rund einer Million Jahren, vielleicht noch früher. Gekochte Nahrung ist leichter verdaulich. | Berna et al., PNAS 2012; PLOS ONE 2026 |
+| 5 | Feuer · Schatten | 9.0 s → **12.1 s** | ≈ 9.6 s | Feuer verändert bis heute ganze Landschaften. In den USA wurden zwischen 1992 und 2012 rund 84 Prozent aller Waldbrände von Menschen ausgelöst. | Balch et al., PNAS 2017 |
+| 6 | Speer · Licht | 10.0 s → **14.3 s** | ≈ 11.7 s | Die Speerspitze von Clacton in England ist rund 400.000 Jahre alt und gilt als eine der ältesten erhaltenen Holzwaffen. Mit Speeren jagten Gruppen gemeinsam auch große Tiere. | Natural History Museum London; Wikipedia: Clacton Spear |
+| 7 | Speer · Schatten | 9.0 s → **13.4 s** | ≈ 10.9 s | Wo moderne Menschen ankamen, verschwanden oft große Tierarten. Wie viel davon auf die Jagd zurückgeht und wie viel auf das Klima, ist bis heute umstritten. | Forschungsstand Megafauna-Aussterben (u. a. Wrangel-Mammuts, ScienceDaily 2019) |
+| 8 | Bild & Symbol · Licht | 10.0 s → **12.5 s** | ≈ 10.0 s | Ein Handumriss auf der Insel Muna in Indonesien ist mindestens rund 67.800 Jahre alt. Nach heutigem Stand ist er die älteste bekannte Höhlenkunst. | Nature 2026, berichtet u. a. von Science News, CNN (Jan. 2026) |
+| 9 | Bild & Symbol · Schatten | 9.0 s → **10.4 s** | ≈ 7.8 s | Gemeinsame Zeichen stiften Zugehörigkeit. Dieselben Zeichen markieren aber auch, wer nicht dazugehört, von der Körperbemalung bis zur Fahne. | Deutung, keine Zahlenangabe |
+| 10 | Ackerbau · Licht | 10.0 s → **11.2 s** | ≈ 8.7 s | Im Fruchtbaren Halbmond wurden Emmer, Einkorn und Gerste zu Kulturpflanzen. Vorräte machten Sesshaftigkeit möglich, aus Dörfern wurden die ersten Städte. | Allgemeiner Forschungsstand Neolithisierung |
+| 11 | Ackerbau · Schatten | 9.0 s → **12.5 s** | ≈ 10.0 s | Mit Vorräten kamen Besitz, Abgaben und Herrscher. Skelettfunde deuten darauf hin, dass frühe Bauern oft kleiner und kränker waren als Jäger und Sammler. | Bioarchäologie, u. a. C. S. Larsen |
+| 12 | Rad · Licht | 10.0 s → **13.0 s** | ≈ 10.4 s | Das älteste erhaltene Holzrad wurde im Laibacher Moor in Slowenien gefunden und ist rund 5.150 Jahre alt. Es gehörte zu einem einfachen zweirädrigen Karren. | Stadtmuseum Ljubljana; Radiokarbon VERA Wien |
+| 13 | Rad · Schatten | 9.0 s → **12.5 s** | ≈ 10.0 s | Speichenräder machten Wagen leicht und schnell. Bei Kadesch trafen 1274 vor Christus vermutlich mehrere tausend Streitwagen aufeinander, die größte bekannte Schlacht dieser Art. | Guinness World Records; Wikipedia: Battle of Kadesh |
+| 14 | Schrift · Licht | 10.0 s → **10.8 s** | ≈ 8.3 s | In Uruk im heutigen Irak entstanden die frühesten Keilschrifttafeln. Erstmals ließ sich Wissen festhalten, unabhängig vom Gedächtnis eines Einzelnen. | CDLI / Englund: Proto-Keilschrift |
+| 15 | Schrift · Schatten | 9.0 s → **11.7 s** | ≈ 9.1 s | Die meisten frühen Tafeln sind keine Erzählungen, sondern Abrechnungen über Gerste, Vieh, Abgaben und Rationen. Wer Buch führt, kann Ansprüche durchsetzen. | Englund 2011: ca. 85 % Verwaltungstexte |
+| 16 | Eisen · Licht | 10.0 s → **12.5 s** | ≈ 10.0 s | Eisenerz kommt fast überall vor, anders als Kupfer und Zinn für Bronze. Werkzeuge aus Eisen wurden dadurch billiger und für viele Bauern erschwinglich. | Allgemeiner Forschungsstand Eisenzeit |
+| 17 | Eisen · Schatten | 9.0 s → **9.9 s** | ≈ 7.4 s | Dieselbe Verfügbarkeit machte auch Waffen billiger. Herrscher wie die Assyrer rüsteten große Heere mit eisernen Waffen aus. | Allgemeiner Forschungsstand Eisenzeit |
+| 18 | Schießpulver · Licht | 10.0 s → **13.9 s** | ≈ 11.3 s | Daoistische Alchemisten suchten in China nach einem Elixier für langes Leben. Eine ihrer Mischungen fing Feuer, und um 850 warnt ein Text vor genau diesem Gemisch. | Wikipedia: History of gunpowder |
+| 19 | Schießpulver · Schatten | 9.0 s → **11.2 s** | ≈ 8.7 s | 1453 brachen osmanische Riesenkanonen die Mauern von Konstantinopel, die rund tausend Jahre gehalten hatten. Stadtmauern boten danach kaum noch Schutz. | HistoryNet: The Guns of Constantinople |
+| 20 | Buchdruck · Licht | 10.0 s → **10.8 s** | ≈ 8.3 s | Gutenberg druckte in Mainz mit beweglichen Lettern aus Metall. Bis 1500 entstanden schätzungsweise mehr als zwölf Millionen gedruckte Bücher. | Buringh & van Zanden 2009 |
+| 21 | Buchdruck · Schatten | 9.0 s → **9.9 s** | ≈ 7.4 s | Die Presse verbreitete auch Hetze. Der Hexenhammer von 1486, eine Anleitung zur Hexenverfolgung, erschien in vielen Auflagen. | Malleus Maleficarum, Druckgeschichte |
+| 22 | Seefahrt · Licht | 10.0 s → **10.0 s** | ≈ 7.4 s | Wendige Karavellen, Kompass und neue Seekarten machten Fahrten über offene Ozeane planbar. 1492 erreichte Kolumbus die Karibik. | Allgemeiner Forschungsstand |
+| 23 | Seefahrt · Schatten | 9.0 s → **10.8 s** | ≈ 8.3 s | Über diese Routen wurden schätzungsweise 12,5 Millionen Menschen aus Afrika verschleppt. Etwa 10,7 Millionen überlebten die Überfahrt nach Amerika. | SlaveVoyages-Datenbank (Rice/Emory) |
+| 24 | Dampfkraft · Licht | 10.0 s → **12.5 s** | ≈ 10.0 s | James Watt verbesserte 1769 die Dampfmaschine mit einem getrennten Kondensator. Sie verbrauchte deutlich weniger Kohle und trieb bald Pumpen, Spinnereien und Lokomotiven an. | Watt-Patent 1769 |
+| 25 | Dampfkraft · Schatten | 9.0 s → **12.1 s** | ≈ 9.6 s | In den Fabriken arbeiteten Kinder oft zwölf Stunden und mehr am Tag. Erste Schutzgesetze, etwa in Großbritannien 1833, begrenzten das nur langsam. | UK Factory Act 1833 |
+| 26 | Medizin · Licht | 10.0 s → **11.2 s** | ≈ 8.7 s | Mit Impfungen, Antibiotika und sauberem Wasser stieg die weltweite Lebenserwartung von etwa 32 Jahren um 1900 auf rund 73 Jahre. | Our World in Data (Stand 2023) |
+| 27 | Medizin · Schatten | 9.0 s → **13.4 s** | ≈ 10.9 s | Wo Antibiotika zu oft eingesetzt werden, überleben resistente Keime. 2019 starben nach einer Studie in The Lancet rund 1,27 Millionen Menschen direkt an resistenten Infektionen. | GRAM, The Lancet 2022 |
+| 28 | Elektrizität · Licht | 10.0 s → **11.2 s** | ≈ 8.7 s | Edisons Glühlampe von 1879 war nur der Anfang. Entscheidend waren Kraftwerke und Leitungsnetze, die Strom in Häuser und Fabriken brachten. | Allgemeiner Forschungsstand |
+| 29 | Elektrizität · Schatten | 9.0 s → **13.0 s** | ≈ 10.4 s | Fällt das Netz aus, steht vieles still. Im April 2025 waren in Spanien und Portugal Millionen Menschen teils bis zu sechzehn Stunden ohne Strom. | ENTSO-E; Euronews 2025 |
+| 30 | Automobil · Licht | 10.0 s → **12.5 s** | ≈ 10.0 s | 1886 meldete Carl Benz seinen Motorwagen zum Patent an. Zwei Jahre später fuhr Bertha Benz damit rund hundert Kilometer von Mannheim nach Pforzheim. | Britannica; Mercedes-Benz Archiv |
+| 31 | Automobil · Schatten | 9.0 s → **10.8 s** | ≈ 8.3 s | Laut Weltgesundheitsorganisation sterben jährlich rund 1,19 Millionen Menschen im Straßenverkehr. Für Fünf- bis Neunundzwanzigjährige ist er die häufigste Todesursache. | WHO Global Status Report on Road Safety 2023 |
+| 32 | Kohle & Öl · Licht | 10.0 s → **11.7 s** | ≈ 9.1 s | Kohle, später Öl und Gas lieferten billige Energie in nie gekannter Menge. Sie trieben Fabriken, Schiffe, Kraftwerke und die Düngerproduktion an. | Allgemeiner Forschungsstand |
+| 33 | Kohle & Öl · Schatten | 9.0 s → **12.1 s** | ≈ 9.6 s | Seit Beginn der Industrialisierung ist der Kohlendioxidgehalt der Luft um mehr als die Hälfte gestiegen. Die Folgen tragen vor allem spätere Generationen. | NOAA Mauna Loa: rund 427 ppm (2025) gegenüber rund 280 ppm vorindustriell |
+| 34 | Flugzeug · Licht | 10.0 s → **10.4 s** | ≈ 7.8 s | Am 17. Dezember 1903 hoben die Brüder Wright in North Carolina ab. Der erste Motorflug dauerte zwölf Sekunden. | Smithsonian NASM |
+| 35 | Flugzeug · Schatten | 9.0 s → **12.1 s** | ≈ 9.6 s | Schon im Ersten Weltkrieg fielen Bomben aus Flugzeugen. Im Zweiten Weltkrieg wurden ganze Städte zum Ziel, von Coventry über Hamburg bis Tokio. | Allgemeiner Forschungsstand |
+| 36 | Chemie · Licht | 10.0 s → **11.2 s** | ≈ 8.7 s | Fritz Haber gewann 1909 Ammoniak aus dem Stickstoff der Luft. Der Kunstdünger daraus ernährt heute schätzungsweise die Hälfte der Menschheit. | Erisman et al., Nature Geoscience 2008 |
+| 37 | Chemie · Schatten | 9.0 s → **12.1 s** | ≈ 9.6 s | Am 22. April 1915 ließ die deutsche Armee bei Ypern Chlorgas aus fast 6.000 Flaschen ab. Haber hatte den Einsatz selbst vorbereitet. | C&EN, 100 Years of Chemical Weapons |
+| 38 | Kernspaltung · Licht | 10.0 s → **12.5 s** | ≈ 10.0 s | 1938 wiesen Otto Hahn und Fritz Straßmann die Kernspaltung nach, Lise Meitner deutete sie. Kernkraftwerke liefern heute knapp ein Zehntel des weltweiten Stroms. | IAEA/IEA: ca. 9 % (2023) |
+| 39 | Kernspaltung · Schatten | 12.0 s → **12.1 s** | ≈ 9.6 s | Am 6. und 9. August 1945 zerstörten zwei Atombomben Hiroshima und Nagasaki. Bis Ende des Jahres starben schätzungsweise mehr als 200.000 Menschen. | Bulletin of the Atomic Scientists 2020: ca. 140.000 und 74.000 |
+| 40 | Computer · Licht | 10.0 s → **11.2 s** | ≈ 8.7 s | Der ENIAC wog rund 27 Tonnen und arbeitete mit über 17.000 Elektronenröhren. Ein heutiges Smartphone rechnet viele Millionen Mal schneller. | Penn Engineering; ETHW |
+| 41 | Computer · Schatten | 9.0 s → **9.9 s** | ≈ 7.4 s | Weltweit arbeiten inzwischen rund fünf Millionen Industrieroboter. Sie übernehmen schwere und gefährliche Arbeit und ersetzen zugleich Arbeitsplätze. | IFR World Robotics 2026 |
+| 42 | Genetik · Licht | 10.0 s → **11.7 s** | ≈ 9.1 s | 1953 beschrieben Watson und Crick die Doppelhelix, gestützt auf Daten von Rosalind Franklin. 2023 wurde die erste CRISPR-Therapie zugelassen, gegen Sichelzellanämie. | FDA 2023 (Casgevy) |
+| 43 | Genetik · Schatten | 9.0 s → **12.5 s** | ≈ 10.0 s | 2018 ließ ein Forscher in China erstmals Kinder mit gezielt veränderten Genen zur Welt bringen. Er wurde dafür zu drei Jahren Haft verurteilt. | Science 2020; NPR 2019 |
+| 44 | Raumfahrt · Licht | 10.0 s → **11.2 s** | ≈ 8.7 s | Am 20. Juli 1969 landeten Neil Armstrong und Buzz Aldrin auf dem Mond. Hunderte Millionen Menschen verfolgten die Bilder live. | NASA |
+| 45 | Raumfahrt · Schatten | 9.0 s → **9.9 s** | ≈ 7.4 s | Die Mondrakete hatte einen Vorläufer: die V2, gebaut von KZ-Häftlingen. Heute gibt es weltweit rund 12.000 Atomsprengköpfe. | KZ-Gedenkstätte Mittelbau-Dora; SIPRI Yearbook 2026 |
+| 46 | Internet · Licht | 10.0 s → **10.8 s** | ≈ 8.3 s | Tim Berners-Lee schlug das World Wide Web 1989 am CERN vor. Heute nutzen rund sechs Milliarden Menschen das Internet. | ITU Facts and Figures 2025 |
+| 47 | Internet · Schatten | 9.0 s → **10.4 s** | ≈ 7.8 s | Eine Studie des MIT ergab 2018: Falschmeldungen auf Twitter wurden um 70 Prozent häufiger geteilt als wahre Nachrichten. | Vosoughi, Roy, Aral, Science 2018 |
+| 48 | Smartphone · Licht | 10.0 s → **10.4 s** | ≈ 7.8 s | Im Januar 2007 wurde das erste iPhone vorgestellt. Karten, Kamera, Bank und Lexikon passen seitdem in eine Hand. | Allgemein bekannt |
+| 49 | Smartphone · Schatten | 9.0 s → **10.4 s** | ≈ 7.8 s | Jedes Smartphone erzeugt laufend Standort- und Nutzungsdaten. 2013 wurde bekannt, dass Geheimdienste solche Daten in großem Umfang sammelten. | Snowden-Enthüllungen 2013 |
+| 50 | KI · Licht | 10.0 s → **12.1 s** | ≈ 9.6 s | Ende 2022 wurden Sprachmodelle für ein Massenpublikum nutzbar. Die Entwickler von AlphaFold, das rund 200 Millionen Proteinstrukturen vorhersagte, erhielten 2024 den Chemie-Nobelpreis. | Nobelprize.org 2024; EMBL |
+| 51 | KI · Schatten | 9.0 s → **12.1 s** | ≈ 9.6 s | Wie große KI-Modelle intern zu ihren Antworten kommen, verstehen selbst ihre Entwickler nur teilweise. Wer solche Systeme kontrolliert, ist eine offene Frage. | Deutung, keine Zahlenangabe |
+| 52 | Darüber hinaus · Licht | 10.0 s → **10.8 s** | ≈ 8.3 s | 2022 lieferte ein Fusionsexperiment in Kalifornien erstmals mehr Energie, als die Laser hineinsteckten. Hirnimplantate lassen gelähmte Menschen Computer steuern. | LLNL National Ignition Facility, Dez. 2022 |
+| 53 | Darüber hinaus · Schatten | 9.0 s → **11.2 s** | ≈ 8.7 s | Jede dieser Techniken wird wieder zwei Seiten haben. Offen ist, wer über ihren Einsatz bestimmt: Staaten, Unternehmen oder wir alle. | Deutung |
+| 54 | In unserer Hand | 14.0 s → **14.0 s** | ≈ 9.6 s | Zwischen dem ersten Faustkeil und der künstlichen Intelligenz liegen über drei Millionen Jahre. Geblieben ist die Frage, wofür wir unsere Werkzeuge einsetzen. | Deutung |
+| 55 | Abspann | 8.0 s → **8.0 s** | ≈ 3.9 s | Was wir als Nächstes bauen, ist noch nicht entschieden. | Deutung |
+
+## Hinweise für die Aufnahme
+
+- Ton: ruhig, dokumentarisch, ohne Dramatisierung. Etwa 2,3 Wörter pro Sekunde (≈ 140 Wörter/min).
+- Zahlen ausgesprochen: „1,27 Millionen“ = „eins Komma zwei sieben Millionen“; „1274 vor Christus“; „ENIAC“ = „Eniak“.
+- Dateien als `voice/v00.mp3` … `voice/v54.mp3` (Index = Folie − 1). Dann: `node plan.js && python3 music.py && node build2.js && python3 post2.py`.
+- Die Musik wird beim Neuaufbau automatisch unter jeder Aufnahme um 10 dB abgesenkt.

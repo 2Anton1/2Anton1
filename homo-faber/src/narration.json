@@ -1,0 +1,332 @@
+[
+ {
+  "slide": 1,
+  "label": "Prolog",
+  "text": "Der Philosoph Henri Bergson nannte den Menschen 1907 Homo faber: das Wesen, das Werkzeuge herstellt. Jedes Werkzeug in diesem Film hat zwei Seiten.",
+  "source": "Bergson, L'Évolution créatrice (1907)"
+ },
+ {
+  "slide": 2,
+  "label": "Steinwerkzeug · Licht",
+  "text": "Die ältesten bekannten Steinwerkzeuge stammen aus Lomekwi in Kenia, vermutlich gefertigt von frühen Vormenschen. Mit ihren scharfen Kanten ließ sich Fleisch von Knochen lösen.",
+  "source": "Harmand et al., Nature 2015"
+ },
+ {
+  "slide": 3,
+  "label": "Steinwerkzeug · Schatten",
+  "text": "Ein rund 430.000 Jahre alter Schädel aus der Sima de los Huesos in Spanien trägt zwei Schlagverletzungen. Es ist womöglich der älteste bekannte Fall von Totschlag.",
+  "source": "Sala et al., PLOS ONE 2015"
+ },
+ {
+  "slide": 4,
+  "label": "Feuer · Licht",
+  "text": "Asche und verbrannte Knochen in der Wonderwerk-Höhle in Südafrika zeigen Feuer vor rund einer Million Jahren, vielleicht noch früher. Gekochte Nahrung ist leichter verdaulich.",
+  "source": "Berna et al., PNAS 2012; PLOS ONE 2026"
+ },
+ {
+  "slide": 5,
+  "label": "Feuer · Schatten",
+  "text": "Feuer verändert bis heute ganze Landschaften. In den USA wurden zwischen 1992 und 2012 rund 84 Prozent aller Waldbrände von Menschen ausgelöst.",
+  "source": "Balch et al., PNAS 2017"
+ },
+ {
+  "slide": 6,
+  "label": "Speer · Licht",
+  "text": "Die Speerspitze von Clacton in England ist rund 400.000 Jahre alt und gilt als eine der ältesten erhaltenen Holzwaffen. Mit Speeren jagten Gruppen gemeinsam auch große Tiere.",
+  "source": "Natural History Museum London; Wikipedia: Clacton Spear"
+ },
+ {
+  "slide": 7,
+  "label": "Speer · Schatten",
+  "text": "Wo moderne Menschen ankamen, verschwanden oft große Tierarten. Wie viel davon auf die Jagd zurückgeht und wie viel auf das Klima, ist bis heute umstritten.",
+  "source": "Forschungsstand Megafauna-Aussterben (u. a. Wrangel-Mammuts, ScienceDaily 2019)"
+ },
+ {
+  "slide": 8,
+  "label": "Bild & Symbol · Licht",
+  "text": "Ein Handumriss auf der Insel Muna in Indonesien ist mindestens rund 67.800 Jahre alt. Nach heutigem Stand ist er die älteste bekannte Höhlenkunst.",
+  "source": "Nature 2026, berichtet u. a. von Science News, CNN (Jan. 2026)"
+ },
+ {
+  "slide": 9,
+  "label": "Bild & Symbol · Schatten",
+  "text": "Gemeinsame Zeichen stiften Zugehörigkeit. Dieselben Zeichen markieren aber auch, wer nicht dazugehört, von der Körperbemalung bis zur Fahne.",
+  "source": "Deutung, keine Zahlenangabe"
+ },
+ {
+  "slide": 10,
+  "label": "Ackerbau · Licht",
+  "text": "Im Fruchtbaren Halbmond wurden Emmer, Einkorn und Gerste zu Kulturpflanzen. Vorräte machten Sesshaftigkeit möglich, aus Dörfern wurden die ersten Städte.",
+  "source": "Allgemeiner Forschungsstand Neolithisierung"
+ },
+ {
+  "slide": 11,
+  "label": "Ackerbau · Schatten",
+  "text": "Mit Vorräten kamen Besitz, Abgaben und Herrscher. Skelettfunde deuten darauf hin, dass frühe Bauern oft kleiner und kränker waren als Jäger und Sammler.",
+  "source": "Bioarchäologie, u. a. C. S. Larsen"
+ },
+ {
+  "slide": 12,
+  "label": "Rad · Licht",
+  "text": "Das älteste erhaltene Holzrad wurde im Laibacher Moor in Slowenien gefunden und ist rund 5.150 Jahre alt. Es gehörte zu einem einfachen zweirädrigen Karren.",
+  "source": "Stadtmuseum Ljubljana; Radiokarbon VERA Wien"
+ },
+ {
+  "slide": 13,
+  "label": "Rad · Schatten",
+  "text": "Speichenräder machten Wagen leicht und schnell. Bei Kadesch trafen 1274 vor Christus vermutlich mehrere tausend Streitwagen aufeinander, die größte bekannte Schlacht dieser Art.",
+  "source": "Guinness World Records; Wikipedia: Battle of Kadesh"
+ },
+ {
+  "slide": 14,
+  "label": "Schrift · Licht",
+  "text": "In Uruk im heutigen Irak entstanden die frühesten Keilschrifttafeln. Erstmals ließ sich Wissen festhalten, unabhängig vom Gedächtnis eines Einzelnen.",
+  "source": "CDLI / Englund: Proto-Keilschrift"
+ },
+ {
+  "slide": 15,
+  "label": "Schrift · Schatten",
+  "text": "Die meisten frühen Tafeln sind keine Erzählungen, sondern Abrechnungen über Gerste, Vieh, Abgaben und Rationen. Wer Buch führt, kann Ansprüche durchsetzen.",
+  "source": "Englund 2011: ca. 85 % Verwaltungstexte"
+ },
+ {
+  "slide": 16,
+  "label": "Eisen · Licht",
+  "text": "Eisenerz kommt fast überall vor, anders als Kupfer und Zinn für Bronze. Werkzeuge aus Eisen wurden dadurch billiger und für viele Bauern erschwinglich.",
+  "source": "Allgemeiner Forschungsstand Eisenzeit"
+ },
+ {
+  "slide": 17,
+  "label": "Eisen · Schatten",
+  "text": "Dieselbe Verfügbarkeit machte auch Waffen billiger. Herrscher wie die Assyrer rüsteten große Heere mit eisernen Waffen aus.",
+  "source": "Allgemeiner Forschungsstand Eisenzeit"
+ },
+ {
+  "slide": 18,
+  "label": "Schießpulver · Licht",
+  "text": "Daoistische Alchemisten suchten in China nach einem Elixier für langes Leben. Eine ihrer Mischungen fing Feuer, und um 850 warnt ein Text vor genau diesem Gemisch.",
+  "source": "Wikipedia: History of gunpowder"
+ },
+ {
+  "slide": 19,
+  "label": "Schießpulver · Schatten",
+  "text": "1453 brachen osmanische Riesenkanonen die Mauern von Konstantinopel, die rund tausend Jahre gehalten hatten. Stadtmauern boten danach kaum noch Schutz.",
+  "source": "HistoryNet: The Guns of Constantinople"
+ },
+ {
+  "slide": 20,
+  "label": "Buchdruck · Licht",
+  "text": "Gutenberg druckte in Mainz mit beweglichen Lettern aus Metall. Bis 1500 entstanden schätzungsweise mehr als zwölf Millionen gedruckte Bücher.",
+  "source": "Buringh & van Zanden 2009"
+ },
+ {
+  "slide": 21,
+  "label": "Buchdruck · Schatten",
+  "text": "Die Presse verbreitete auch Hetze. Der Hexenhammer von 1486, eine Anleitung zur Hexenverfolgung, erschien in vielen Auflagen.",
+  "source": "Malleus Maleficarum, Druckgeschichte"
+ },
+ {
+  "slide": 22,
+  "label": "Seefahrt · Licht",
+  "text": "Wendige Karavellen, Kompass und neue Seekarten machten Fahrten über offene Ozeane planbar. 1492 erreichte Kolumbus die Karibik.",
+  "source": "Allgemeiner Forschungsstand"
+ },
+ {
+  "slide": 23,
+  "label": "Seefahrt · Schatten",
+  "text": "Über diese Routen wurden schätzungsweise 12,5 Millionen Menschen aus Afrika verschleppt. Etwa 10,7 Millionen überlebten die Überfahrt nach Amerika.",
+  "source": "SlaveVoyages-Datenbank (Rice/Emory)"
+ },
+ {
+  "slide": 24,
+  "label": "Dampfkraft · Licht",
+  "text": "James Watt verbesserte 1769 die Dampfmaschine mit einem getrennten Kondensator. Sie verbrauchte deutlich weniger Kohle und trieb bald Pumpen, Spinnereien und Lokomotiven an.",
+  "source": "Watt-Patent 1769"
+ },
+ {
+  "slide": 25,
+  "label": "Dampfkraft · Schatten",
+  "text": "In den Fabriken arbeiteten Kinder oft zwölf Stunden und mehr am Tag. Erste Schutzgesetze, etwa in Großbritannien 1833, begrenzten das nur langsam.",
+  "source": "UK Factory Act 1833"
+ },
+ {
+  "slide": 26,
+  "label": "Medizin · Licht",
+  "text": "Mit Impfungen, Antibiotika und sauberem Wasser stieg die weltweite Lebenserwartung von etwa 32 Jahren um 1900 auf rund 73 Jahre.",
+  "source": "Our World in Data (Stand 2023)"
+ },
+ {
+  "slide": 27,
+  "label": "Medizin · Schatten",
+  "text": "Wo Antibiotika zu oft eingesetzt werden, überleben resistente Keime. 2019 starben nach einer Studie in The Lancet rund 1,27 Millionen Menschen direkt an resistenten Infektionen.",
+  "source": "GRAM, The Lancet 2022"
+ },
+ {
+  "slide": 28,
+  "label": "Elektrizität · Licht",
+  "text": "Edisons Glühlampe von 1879 war nur der Anfang. Entscheidend waren Kraftwerke und Leitungsnetze, die Strom in Häuser und Fabriken brachten.",
+  "source": "Allgemeiner Forschungsstand"
+ },
+ {
+  "slide": 29,
+  "label": "Elektrizität · Schatten",
+  "text": "Fällt das Netz aus, steht vieles still. Im April 2025 waren in Spanien und Portugal Millionen Menschen teils bis zu sechzehn Stunden ohne Strom.",
+  "source": "ENTSO-E; Euronews 2025"
+ },
+ {
+  "slide": 30,
+  "label": "Automobil · Licht",
+  "text": "1886 meldete Carl Benz seinen Motorwagen zum Patent an. Zwei Jahre später fuhr Bertha Benz damit rund hundert Kilometer von Mannheim nach Pforzheim.",
+  "source": "Britannica; Mercedes-Benz Archiv"
+ },
+ {
+  "slide": 31,
+  "label": "Automobil · Schatten",
+  "text": "Laut Weltgesundheitsorganisation sterben jährlich rund 1,19 Millionen Menschen im Straßenverkehr. Für Fünf- bis Neunundzwanzigjährige ist er die häufigste Todesursache.",
+  "source": "WHO Global Status Report on Road Safety 2023"
+ },
+ {
+  "slide": 32,
+  "label": "Kohle & Öl · Licht",
+  "text": "Kohle, später Öl und Gas lieferten billige Energie in nie gekannter Menge. Sie trieben Fabriken, Schiffe, Kraftwerke und die Düngerproduktion an.",
+  "source": "Allgemeiner Forschungsstand"
+ },
+ {
+  "slide": 33,
+  "label": "Kohle & Öl · Schatten",
+  "text": "Seit Beginn der Industrialisierung ist der Kohlendioxidgehalt der Luft um mehr als die Hälfte gestiegen. Die Folgen tragen vor allem spätere Generationen.",
+  "source": "NOAA Mauna Loa: rund 427 ppm (2025) gegenüber rund 280 ppm vorindustriell"
+ },
+ {
+  "slide": 34,
+  "label": "Flugzeug · Licht",
+  "text": "Am 17. Dezember 1903 hoben die Brüder Wright in North Carolina ab. Der erste Motorflug dauerte zwölf Sekunden.",
+  "source": "Smithsonian NASM"
+ },
+ {
+  "slide": 35,
+  "label": "Flugzeug · Schatten",
+  "text": "Schon im Ersten Weltkrieg fielen Bomben aus Flugzeugen. Im Zweiten Weltkrieg wurden ganze Städte zum Ziel, von Coventry über Hamburg bis Tokio.",
+  "source": "Allgemeiner Forschungsstand"
+ },
+ {
+  "slide": 36,
+  "label": "Chemie · Licht",
+  "text": "Fritz Haber gewann 1909 Ammoniak aus dem Stickstoff der Luft. Der Kunstdünger daraus ernährt heute schätzungsweise die Hälfte der Menschheit.",
+  "source": "Erisman et al., Nature Geoscience 2008"
+ },
+ {
+  "slide": 37,
+  "label": "Chemie · Schatten",
+  "text": "Am 22. April 1915 ließ die deutsche Armee bei Ypern Chlorgas aus fast 6.000 Flaschen ab. Haber hatte den Einsatz selbst vorbereitet.",
+  "source": "C&EN, 100 Years of Chemical Weapons"
+ },
+ {
+  "slide": 38,
+  "label": "Kernspaltung · Licht",
+  "text": "1938 wiesen Otto Hahn und Fritz Straßmann die Kernspaltung nach, Lise Meitner deutete sie. Kernkraftwerke liefern heute knapp ein Zehntel des weltweiten Stroms.",
+  "source": "IAEA/IEA: ca. 9 % (2023)"
+ },
+ {
+  "slide": 39,
+  "label": "Kernspaltung · Schatten",
+  "text": "Am 6. und 9. August 1945 zerstörten zwei Atombomben Hiroshima und Nagasaki. Bis Ende des Jahres starben schätzungsweise mehr als 200.000 Menschen.",
+  "source": "Bulletin of the Atomic Scientists 2020: ca. 140.000 und 74.000"
+ },
+ {
+  "slide": 40,
+  "label": "Computer · Licht",
+  "text": "Der ENIAC wog rund 27 Tonnen und arbeitete mit über 17.000 Elektronenröhren. Ein heutiges Smartphone rechnet viele Millionen Mal schneller.",
+  "source": "Penn Engineering; ETHW"
+ },
+ {
+  "slide": 41,
+  "label": "Computer · Schatten",
+  "text": "Weltweit arbeiten inzwischen rund fünf Millionen Industrieroboter. Sie übernehmen schwere und gefährliche Arbeit und ersetzen zugleich Arbeitsplätze.",
+  "source": "IFR World Robotics 2026"
+ },
+ {
+  "slide": 42,
+  "label": "Genetik · Licht",
+  "text": "1953 beschrieben Watson und Crick die Doppelhelix, gestützt auf Daten von Rosalind Franklin. 2023 wurde die erste CRISPR-Therapie zugelassen, gegen Sichelzellanämie.",
+  "source": "FDA 2023 (Casgevy)"
+ },
+ {
+  "slide": 43,
+  "label": "Genetik · Schatten",
+  "text": "2018 ließ ein Forscher in China erstmals Kinder mit gezielt veränderten Genen zur Welt bringen. Er wurde dafür zu drei Jahren Haft verurteilt.",
+  "source": "Science 2020; NPR 2019"
+ },
+ {
+  "slide": 44,
+  "label": "Raumfahrt · Licht",
+  "text": "Am 20. Juli 1969 landeten Neil Armstrong und Buzz Aldrin auf dem Mond. Hunderte Millionen Menschen verfolgten die Bilder live.",
+  "source": "NASA"
+ },
+ {
+  "slide": 45,
+  "label": "Raumfahrt · Schatten",
+  "text": "Die Mondrakete hatte einen Vorläufer: die V2, gebaut von KZ-Häftlingen. Heute gibt es weltweit rund 12.000 Atomsprengköpfe.",
+  "source": "KZ-Gedenkstätte Mittelbau-Dora; SIPRI Yearbook 2026"
+ },
+ {
+  "slide": 46,
+  "label": "Internet · Licht",
+  "text": "Tim Berners-Lee schlug das World Wide Web 1989 am CERN vor. Heute nutzen rund sechs Milliarden Menschen das Internet.",
+  "source": "ITU Facts and Figures 2025"
+ },
+ {
+  "slide": 47,
+  "label": "Internet · Schatten",
+  "text": "Eine Studie des MIT ergab 2018: Falschmeldungen auf Twitter wurden um 70 Prozent häufiger geteilt als wahre Nachrichten.",
+  "source": "Vosoughi, Roy, Aral, Science 2018"
+ },
+ {
+  "slide": 48,
+  "label": "Smartphone · Licht",
+  "text": "Im Januar 2007 wurde das erste iPhone vorgestellt. Karten, Kamera, Bank und Lexikon passen seitdem in eine Hand.",
+  "source": "Allgemein bekannt"
+ },
+ {
+  "slide": 49,
+  "label": "Smartphone · Schatten",
+  "text": "Jedes Smartphone erzeugt laufend Standort- und Nutzungsdaten. 2013 wurde bekannt, dass Geheimdienste solche Daten in großem Umfang sammelten.",
+  "source": "Snowden-Enthüllungen 2013"
+ },
+ {
+  "slide": 50,
+  "label": "KI · Licht",
+  "text": "Ende 2022 wurden Sprachmodelle für ein Massenpublikum nutzbar. Die Entwickler von AlphaFold, das rund 200 Millionen Proteinstrukturen vorhersagte, erhielten 2024 den Chemie-Nobelpreis.",
+  "source": "Nobelprize.org 2024; EMBL"
+ },
+ {
+  "slide": 51,
+  "label": "KI · Schatten",
+  "text": "Wie große KI-Modelle intern zu ihren Antworten kommen, verstehen selbst ihre Entwickler nur teilweise. Wer solche Systeme kontrolliert, ist eine offene Frage.",
+  "source": "Deutung, keine Zahlenangabe"
+ },
+ {
+  "slide": 52,
+  "label": "Darüber hinaus · Licht",
+  "text": "2022 lieferte ein Fusionsexperiment in Kalifornien erstmals mehr Energie, als die Laser hineinsteckten. Hirnimplantate lassen gelähmte Menschen Computer steuern.",
+  "source": "LLNL National Ignition Facility, Dez. 2022"
+ },
+ {
+  "slide": 53,
+  "label": "Darüber hinaus · Schatten",
+  "text": "Jede dieser Techniken wird wieder zwei Seiten haben. Offen ist, wer über ihren Einsatz bestimmt: Staaten, Unternehmen oder wir alle.",
+  "source": "Deutung"
+ },
+ {
+  "slide": 54,
+  "label": "In unserer Hand",
+  "text": "Zwischen dem ersten Faustkeil und der künstlichen Intelligenz liegen über drei Millionen Jahre. Geblieben ist die Frage, wofür wir unsere Werkzeuge einsetzen.",
+  "source": "Deutung"
+ },
+ {
+  "slide": 55,
+  "label": "Abspann",
+  "text": "Was wir als Nächstes bauen, ist noch nicht entschieden.",
+  "source": "Deutung"
+ }
+]

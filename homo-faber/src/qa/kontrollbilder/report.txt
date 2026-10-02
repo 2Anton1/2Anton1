@@ -1,0 +1,26 @@
+Keine Verstöße (Bildrand, Textzone, advTm).
+
+Kontinuität Carry (max. Abweichung in px bzw. Grad):
+Folie 3: carry Δ=0.0
+Folie 5: carry Δ=0.0
+Folie 9: carry Δ=0.0
+Folie 11: carry Δ=0.0
+Folie 13: carry Δ=0.0
+Folie 15: carry Δ=0.0
+Folie 17: carry Δ=0.0
+Folie 21: carry Δ=0.0
+Folie 23: carry Δ=0.0
+Folie 25: carry Δ=0.0
+Folie 27: carry Δ=0.0
+Folie 29: carryOff Δ=0.0
+Folie 29: carryGlow Δ=0.0
+Folie 29: carry Δ=0.0
+Folie 31: carry Δ=0.0
+Folie 33: carry Δ=0.0
+Folie 37: carry Δ=0.0
+Folie 41: carry Δ=0.0
+Folie 41: carryScreen Δ=0.0
+Folie 43: carry Δ=0.0
+Folie 47: carry Δ=0.0
+Folie 49: carry Δ=0.0
+Folie 51: carry Δ=0.0
