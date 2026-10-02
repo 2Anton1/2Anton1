@@ -143,7 +143,7 @@ const narr = k => (NAR[k] || {}).text || '';
 const credit = icons => icons.filter(Boolean).map(n => `${n.replace(/^Gi/, '').replace(/([a-z0-9])([A-Z])/g, '$1 $2')} von ${AUTH[n].author}`).join(', ');
 function notes(s, k, base, icons = []) {
   let t = base;
-  if (narr(k)) t += `\n\nSprechertext: ${narr(k)}`;
+  if (narr(k)) t += `\n\nSprechertext (gesprochen, englisch): ${narr(k)}` + ((NAR[k] || {}).text_de ? `\nDeutsche Fassung: ${NAR[k].text_de}` : '');
   if (icons.filter(Boolean).length) t += `\n\nIcons: ${credit(icons)} – game-icons.net, Lizenz CC BY 3.0.`;
   s.addNotes(t);
 }

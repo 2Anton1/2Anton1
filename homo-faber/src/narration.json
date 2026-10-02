@@ -2,331 +2,441 @@
  {
   "slide": 1,
   "label": "Prolog",
-  "text": "Der Philosoph Henri Bergson nannte den Menschen 1907 Homo faber: das Wesen, das Werkzeuge herstellt. Jedes Werkzeug in diesem Film hat zwei Seiten.",
+  "lang": "en",
+  "text": "In 1907, the philosopher Henri Bergson called humans homo faber: the being that makes tools. Every tool in this film has two sides.",
+  "text_de": "Der Philosoph Henri Bergson nannte den Menschen 1907 Homo faber: das Wesen, das Werkzeuge herstellt. Jedes Werkzeug in diesem Film hat zwei Seiten.",
   "source": "Bergson, L'Évolution créatrice (1907)"
  },
  {
   "slide": 2,
   "label": "Steinwerkzeug · Licht",
-  "text": "Die ältesten bekannten Steinwerkzeuge stammen aus Lomekwi in Kenia, vermutlich gefertigt von frühen Vormenschen. Mit ihren scharfen Kanten ließ sich Fleisch von Knochen lösen.",
+  "lang": "en",
+  "text": "The oldest known stone tools come from Lomekwi in Kenya, probably made by early hominins. Their sharp edges could strip meat from bone.",
+  "text_de": "Die ältesten bekannten Steinwerkzeuge stammen aus Lomekwi in Kenia, vermutlich gefertigt von frühen Vormenschen. Mit ihren scharfen Kanten ließ sich Fleisch von Knochen lösen.",
   "source": "Harmand et al., Nature 2015"
  },
  {
   "slide": 3,
   "label": "Steinwerkzeug · Schatten",
-  "text": "Ein rund 430.000 Jahre alter Schädel aus der Sima de los Huesos in Spanien trägt zwei Schlagverletzungen. Es ist womöglich der älteste bekannte Fall von Totschlag.",
+  "lang": "en",
+  "text": "A skull from the Sima de los Huesos in Spain, about 430,000 years old, bears two blunt-force wounds. It may be the oldest known case of homicide.",
+  "text_de": "Ein rund 430.000 Jahre alter Schädel aus der Sima de los Huesos in Spanien trägt zwei Schlagverletzungen. Es ist womöglich der älteste bekannte Fall von Totschlag.",
   "source": "Sala et al., PLOS ONE 2015"
  },
  {
   "slide": 4,
   "label": "Feuer · Licht",
-  "text": "Asche und verbrannte Knochen in der Wonderwerk-Höhle in Südafrika zeigen Feuer vor rund einer Million Jahren, vielleicht noch früher. Gekochte Nahrung ist leichter verdaulich.",
+  "lang": "en",
+  "text": "Ash and burnt bone in Wonderwerk Cave in South Africa show fire use about a million years ago, perhaps even earlier. Cooked food is easier to digest.",
+  "text_de": "Asche und verbrannte Knochen in der Wonderwerk-Höhle in Südafrika zeigen Feuer vor rund einer Million Jahren, vielleicht noch früher. Gekochte Nahrung ist leichter verdaulich.",
   "source": "Berna et al., PNAS 2012; PLOS ONE 2026"
  },
  {
   "slide": 5,
   "label": "Feuer · Schatten",
-  "text": "Feuer verändert bis heute ganze Landschaften. In den USA wurden zwischen 1992 und 2012 rund 84 Prozent aller Waldbrände von Menschen ausgelöst.",
+  "lang": "en",
+  "text": "Fire still reshapes entire landscapes. In the United States, about 84 percent of wildfires between 1992 and 2012 were started by people.",
+  "text_de": "Feuer verändert bis heute ganze Landschaften. In den USA wurden zwischen 1992 und 2012 rund 84 Prozent aller Waldbrände von Menschen ausgelöst.",
   "source": "Balch et al., PNAS 2017"
  },
  {
   "slide": 6,
   "label": "Speer · Licht",
-  "text": "Die Speerspitze von Clacton in England ist rund 400.000 Jahre alt und gilt als eine der ältesten erhaltenen Holzwaffen. Mit Speeren jagten Gruppen gemeinsam auch große Tiere.",
+  "lang": "en",
+  "text": "The Clacton spear point from England is about 400,000 years old, one of the oldest surviving wooden weapons. With spears, groups could hunt even large animals together.",
+  "text_de": "Die Speerspitze von Clacton in England ist rund 400.000 Jahre alt und gilt als eine der ältesten erhaltenen Holzwaffen. Mit Speeren jagten Gruppen gemeinsam auch große Tiere.",
   "source": "Natural History Museum London; Wikipedia: Clacton Spear"
  },
  {
   "slide": 7,
   "label": "Speer · Schatten",
-  "text": "Wo moderne Menschen ankamen, verschwanden oft große Tierarten. Wie viel davon auf die Jagd zurückgeht und wie viel auf das Klima, ist bis heute umstritten.",
+  "lang": "en",
+  "text": "Wherever modern humans arrived, large animal species often disappeared. How much was due to hunting and how much to climate is still debated.",
+  "text_de": "Wo moderne Menschen ankamen, verschwanden oft große Tierarten. Wie viel davon auf die Jagd zurückgeht und wie viel auf das Klima, ist bis heute umstritten.",
   "source": "Forschungsstand Megafauna-Aussterben (u. a. Wrangel-Mammuts, ScienceDaily 2019)"
  },
  {
   "slide": 8,
   "label": "Bild & Symbol · Licht",
-  "text": "Ein Handumriss auf der Insel Muna in Indonesien ist mindestens rund 67.800 Jahre alt. Nach heutigem Stand ist er die älteste bekannte Höhlenkunst.",
+  "lang": "en",
+  "text": "A hand stencil on the Indonesian island of Muna is at least about 67,800 years old. As far as we know, it is the oldest cave art in the world.",
+  "text_de": "Ein Handumriss auf der Insel Muna in Indonesien ist mindestens rund 67.800 Jahre alt. Nach heutigem Stand ist er die älteste bekannte Höhlenkunst.",
   "source": "Nature 2026, berichtet u. a. von Science News, CNN (Jan. 2026)"
  },
  {
   "slide": 9,
   "label": "Bild & Symbol · Schatten",
-  "text": "Gemeinsame Zeichen stiften Zugehörigkeit. Dieselben Zeichen markieren aber auch, wer nicht dazugehört, von der Körperbemalung bis zur Fahne.",
+  "lang": "en",
+  "text": "Shared symbols create belonging. The same symbols also mark who does not belong, from body paint to flags.",
+  "text_de": "Gemeinsame Zeichen stiften Zugehörigkeit. Dieselben Zeichen markieren aber auch, wer nicht dazugehört, von der Körperbemalung bis zur Fahne.",
   "source": "Deutung, keine Zahlenangabe"
  },
  {
   "slide": 10,
   "label": "Ackerbau · Licht",
-  "text": "Im Fruchtbaren Halbmond wurden Emmer, Einkorn und Gerste zu Kulturpflanzen. Vorräte machten Sesshaftigkeit möglich, aus Dörfern wurden die ersten Städte.",
+  "lang": "en",
+  "text": "In the Fertile Crescent, emmer, einkorn and barley became crops. Stored food made settled life possible, and villages grew into the first cities.",
+  "text_de": "Im Fruchtbaren Halbmond wurden Emmer, Einkorn und Gerste zu Kulturpflanzen. Vorräte machten Sesshaftigkeit möglich, aus Dörfern wurden die ersten Städte.",
   "source": "Allgemeiner Forschungsstand Neolithisierung"
  },
  {
   "slide": 11,
   "label": "Ackerbau · Schatten",
-  "text": "Mit Vorräten kamen Besitz, Abgaben und Herrscher. Skelettfunde deuten darauf hin, dass frühe Bauern oft kleiner und kränker waren als Jäger und Sammler.",
+  "lang": "en",
+  "text": "Stored food brought property, taxes and rulers. Skeletons suggest that early farmers were often shorter and sicker than hunter-gatherers.",
+  "text_de": "Mit Vorräten kamen Besitz, Abgaben und Herrscher. Skelettfunde deuten darauf hin, dass frühe Bauern oft kleiner und kränker waren als Jäger und Sammler.",
   "source": "Bioarchäologie, u. a. C. S. Larsen"
  },
  {
   "slide": 12,
   "label": "Rad · Licht",
-  "text": "Das älteste erhaltene Holzrad wurde im Laibacher Moor in Slowenien gefunden und ist rund 5.150 Jahre alt. Es gehörte zu einem einfachen zweirädrigen Karren.",
+  "lang": "en",
+  "text": "The oldest surviving wooden wheel was found in the Ljubljana Marshes in Slovenia and is about 5,150 years old. It belonged to a simple two-wheeled cart.",
+  "text_de": "Das älteste erhaltene Holzrad wurde im Laibacher Moor in Slowenien gefunden und ist rund 5.150 Jahre alt. Es gehörte zu einem einfachen zweirädrigen Karren.",
   "source": "Stadtmuseum Ljubljana; Radiokarbon VERA Wien"
  },
  {
   "slide": 13,
   "label": "Rad · Schatten",
-  "text": "Speichenräder machten Wagen leicht und schnell. Bei Kadesch trafen 1274 vor Christus vermutlich mehrere tausend Streitwagen aufeinander, die größte bekannte Schlacht dieser Art.",
+  "lang": "en",
+  "text": "Spoked wheels made vehicles light and fast. At Kadesh in 1274 BC, probably several thousand chariots clashed, the largest known battle of its kind.",
+  "text_de": "Speichenräder machten Wagen leicht und schnell. Bei Kadesch trafen 1274 vor Christus vermutlich mehrere tausend Streitwagen aufeinander, die größte bekannte Schlacht dieser Art.",
   "source": "Guinness World Records; Wikipedia: Battle of Kadesh"
  },
  {
   "slide": 14,
   "label": "Schrift · Licht",
-  "text": "In Uruk im heutigen Irak entstanden die frühesten Keilschrifttafeln. Erstmals ließ sich Wissen festhalten, unabhängig vom Gedächtnis eines Einzelnen.",
+  "lang": "en",
+  "text": "The earliest cuneiform tablets were written in Uruk, in today's Iraq. For the first time, knowledge could be recorded beyond a single person's memory.",
+  "text_de": "In Uruk im heutigen Irak entstanden die frühesten Keilschrifttafeln. Erstmals ließ sich Wissen festhalten, unabhängig vom Gedächtnis eines Einzelnen.",
   "source": "CDLI / Englund: Proto-Keilschrift"
  },
  {
   "slide": 15,
   "label": "Schrift · Schatten",
-  "text": "Die meisten frühen Tafeln sind keine Erzählungen, sondern Abrechnungen über Gerste, Vieh, Abgaben und Rationen. Wer Buch führt, kann Ansprüche durchsetzen.",
+  "lang": "en",
+  "text": "Most early tablets are not stories but accounts of barley, livestock, taxes and rations. Whoever keeps the books can enforce claims.",
+  "text_de": "Die meisten frühen Tafeln sind keine Erzählungen, sondern Abrechnungen über Gerste, Vieh, Abgaben und Rationen. Wer Buch führt, kann Ansprüche durchsetzen.",
   "source": "Englund 2011: ca. 85 % Verwaltungstexte"
  },
  {
   "slide": 16,
   "label": "Eisen · Licht",
-  "text": "Eisenerz kommt fast überall vor, anders als Kupfer und Zinn für Bronze. Werkzeuge aus Eisen wurden dadurch billiger und für viele Bauern erschwinglich.",
+  "lang": "en",
+  "text": "Iron ore is found almost everywhere, unlike the copper and tin needed for bronze. Iron tools became cheaper and affordable for many farmers.",
+  "text_de": "Eisenerz kommt fast überall vor, anders als Kupfer und Zinn für Bronze. Werkzeuge aus Eisen wurden dadurch billiger und für viele Bauern erschwinglich.",
   "source": "Allgemeiner Forschungsstand Eisenzeit"
  },
  {
   "slide": 17,
   "label": "Eisen · Schatten",
-  "text": "Dieselbe Verfügbarkeit machte auch Waffen billiger. Herrscher wie die Assyrer rüsteten große Heere mit eisernen Waffen aus.",
+  "lang": "en",
+  "text": "The same availability made weapons cheaper too. Rulers such as the Assyrians equipped large armies with iron weapons.",
+  "text_de": "Dieselbe Verfügbarkeit machte auch Waffen billiger. Herrscher wie die Assyrer rüsteten große Heere mit eisernen Waffen aus.",
   "source": "Allgemeiner Forschungsstand Eisenzeit"
  },
  {
   "slide": 18,
   "label": "Schießpulver · Licht",
-  "text": "Daoistische Alchemisten suchten in China nach einem Elixier für langes Leben. Eine ihrer Mischungen fing Feuer, und um 850 warnt ein Text vor genau diesem Gemisch.",
+  "lang": "en",
+  "text": "In China, Taoist alchemists searched for an elixir of long life. One of their mixtures caught fire, and a text from around 850 warns against exactly this blend.",
+  "text_de": "Daoistische Alchemisten suchten in China nach einem Elixier für langes Leben. Eine ihrer Mischungen fing Feuer, und um 850 warnt ein Text vor genau diesem Gemisch.",
   "source": "Wikipedia: History of gunpowder"
  },
  {
   "slide": 19,
   "label": "Schießpulver · Schatten",
-  "text": "1453 brachen osmanische Riesenkanonen die Mauern von Konstantinopel, die rund tausend Jahre gehalten hatten. Stadtmauern boten danach kaum noch Schutz.",
+  "lang": "en",
+  "text": "In 1453, huge Ottoman cannons breached the walls of Constantinople, which had stood for about a thousand years. City walls no longer offered real protection.",
+  "text_de": "1453 brachen osmanische Riesenkanonen die Mauern von Konstantinopel, die rund tausend Jahre gehalten hatten. Stadtmauern boten danach kaum noch Schutz.",
   "source": "HistoryNet: The Guns of Constantinople"
  },
  {
   "slide": 20,
   "label": "Buchdruck · Licht",
-  "text": "Gutenberg druckte in Mainz mit beweglichen Lettern aus Metall. Bis 1500 entstanden schätzungsweise mehr als zwölf Millionen gedruckte Bücher.",
+  "lang": "en",
+  "text": "In Mainz, Gutenberg printed with movable metal type. By 1500, an estimated twelve million books or more had been printed.",
+  "text_de": "Gutenberg druckte in Mainz mit beweglichen Lettern aus Metall. Bis 1500 entstanden schätzungsweise mehr als zwölf Millionen gedruckte Bücher.",
   "source": "Buringh & van Zanden 2009"
  },
  {
   "slide": 21,
   "label": "Buchdruck · Schatten",
-  "text": "Die Presse verbreitete auch Hetze. Der Hexenhammer von 1486, eine Anleitung zur Hexenverfolgung, erschien in vielen Auflagen.",
+  "lang": "en",
+  "text": "The press also spread hatred. The Hammer of Witches from 1486, a manual for persecuting witches, went through many editions.",
+  "text_de": "Die Presse verbreitete auch Hetze. Der Hexenhammer von 1486, eine Anleitung zur Hexenverfolgung, erschien in vielen Auflagen.",
   "source": "Malleus Maleficarum, Druckgeschichte"
  },
  {
   "slide": 22,
   "label": "Seefahrt · Licht",
-  "text": "Wendige Karavellen, Kompass und neue Seekarten machten Fahrten über offene Ozeane planbar. 1492 erreichte Kolumbus die Karibik.",
+  "lang": "en",
+  "text": "Nimble caravels, the compass and new sea charts made voyages across open oceans plannable. In 1492, Columbus reached the Caribbean.",
+  "text_de": "Wendige Karavellen, Kompass und neue Seekarten machten Fahrten über offene Ozeane planbar. 1492 erreichte Kolumbus die Karibik.",
   "source": "Allgemeiner Forschungsstand"
  },
  {
   "slide": 23,
   "label": "Seefahrt · Schatten",
-  "text": "Über diese Routen wurden schätzungsweise 12,5 Millionen Menschen aus Afrika verschleppt. Etwa 10,7 Millionen überlebten die Überfahrt nach Amerika.",
+  "lang": "en",
+  "text": "Along these routes, an estimated 12.5 million people were taken from Africa. About 10.7 million survived the crossing to the Americas.",
+  "text_de": "Über diese Routen wurden schätzungsweise 12,5 Millionen Menschen aus Afrika verschleppt. Etwa 10,7 Millionen überlebten die Überfahrt nach Amerika.",
   "source": "SlaveVoyages-Datenbank (Rice/Emory)"
  },
  {
   "slide": 24,
   "label": "Dampfkraft · Licht",
-  "text": "James Watt verbesserte 1769 die Dampfmaschine mit einem getrennten Kondensator. Sie verbrauchte deutlich weniger Kohle und trieb bald Pumpen, Spinnereien und Lokomotiven an.",
+  "lang": "en",
+  "text": "In 1769, James Watt improved the steam engine with a separate condenser. It used far less coal and soon drove pumps, spinning mills and locomotives.",
+  "text_de": "James Watt verbesserte 1769 die Dampfmaschine mit einem getrennten Kondensator. Sie verbrauchte deutlich weniger Kohle und trieb bald Pumpen, Spinnereien und Lokomotiven an.",
   "source": "Watt-Patent 1769"
  },
  {
   "slide": 25,
   "label": "Dampfkraft · Schatten",
-  "text": "In den Fabriken arbeiteten Kinder oft zwölf Stunden und mehr am Tag. Erste Schutzgesetze, etwa in Großbritannien 1833, begrenzten das nur langsam.",
+  "lang": "en",
+  "text": "In factories, children often worked twelve hours a day or more. Early protective laws, such as Britain's in 1833, changed this only slowly.",
+  "text_de": "In den Fabriken arbeiteten Kinder oft zwölf Stunden und mehr am Tag. Erste Schutzgesetze, etwa in Großbritannien 1833, begrenzten das nur langsam.",
   "source": "UK Factory Act 1833"
  },
  {
   "slide": 26,
   "label": "Medizin · Licht",
-  "text": "Mit Impfungen, Antibiotika und sauberem Wasser stieg die weltweite Lebenserwartung von etwa 32 Jahren um 1900 auf rund 73 Jahre.",
+  "lang": "en",
+  "text": "With vaccines, antibiotics and clean water, global life expectancy rose from about 32 years around 1900 to about 73 years.",
+  "text_de": "Mit Impfungen, Antibiotika und sauberem Wasser stieg die weltweite Lebenserwartung von etwa 32 Jahren um 1900 auf rund 73 Jahre.",
   "source": "Our World in Data (Stand 2023)"
  },
  {
   "slide": 27,
   "label": "Medizin · Schatten",
-  "text": "Wo Antibiotika zu oft eingesetzt werden, überleben resistente Keime. 2019 starben nach einer Studie in The Lancet rund 1,27 Millionen Menschen direkt an resistenten Infektionen.",
+  "lang": "en",
+  "text": "Where antibiotics are overused, resistant germs survive. A study in The Lancet estimates that in 2019, about 1.27 million people died directly from resistant infections.",
+  "text_de": "Wo Antibiotika zu oft eingesetzt werden, überleben resistente Keime. 2019 starben nach einer Studie in The Lancet rund 1,27 Millionen Menschen direkt an resistenten Infektionen.",
   "source": "GRAM, The Lancet 2022"
  },
  {
   "slide": 28,
   "label": "Elektrizität · Licht",
-  "text": "Edisons Glühlampe von 1879 war nur der Anfang. Entscheidend waren Kraftwerke und Leitungsnetze, die Strom in Häuser und Fabriken brachten.",
+  "lang": "en",
+  "text": "Edison's light bulb of 1879 was only the beginning. What mattered were power stations and grids that brought electricity into homes and factories.",
+  "text_de": "Edisons Glühlampe von 1879 war nur der Anfang. Entscheidend waren Kraftwerke und Leitungsnetze, die Strom in Häuser und Fabriken brachten.",
   "source": "Allgemeiner Forschungsstand"
  },
  {
   "slide": 29,
   "label": "Elektrizität · Schatten",
-  "text": "Fällt das Netz aus, steht vieles still. Im April 2025 waren in Spanien und Portugal Millionen Menschen teils bis zu sechzehn Stunden ohne Strom.",
+  "lang": "en",
+  "text": "When the grid fails, much comes to a halt. In April 2025, millions of people in Spain and Portugal were without power, some for up to sixteen hours.",
+  "text_de": "Fällt das Netz aus, steht vieles still. Im April 2025 waren in Spanien und Portugal Millionen Menschen teils bis zu sechzehn Stunden ohne Strom.",
   "source": "ENTSO-E; Euronews 2025"
  },
  {
   "slide": 30,
   "label": "Automobil · Licht",
-  "text": "1886 meldete Carl Benz seinen Motorwagen zum Patent an. Zwei Jahre später fuhr Bertha Benz damit rund hundert Kilometer von Mannheim nach Pforzheim.",
+  "lang": "en",
+  "text": "In 1886, Carl Benz patented his motor car. Two years later, Bertha Benz drove it about a hundred kilometres from Mannheim to Pforzheim.",
+  "text_de": "1886 meldete Carl Benz seinen Motorwagen zum Patent an. Zwei Jahre später fuhr Bertha Benz damit rund hundert Kilometer von Mannheim nach Pforzheim.",
   "source": "Britannica; Mercedes-Benz Archiv"
  },
  {
   "slide": 31,
   "label": "Automobil · Schatten",
-  "text": "Laut Weltgesundheitsorganisation sterben jährlich rund 1,19 Millionen Menschen im Straßenverkehr. Für Fünf- bis Neunundzwanzigjährige ist er die häufigste Todesursache.",
+  "lang": "en",
+  "text": "According to the World Health Organization, about 1.19 million people die on the world's roads every year. For people aged five to twenty-nine, it is the leading cause of death.",
+  "text_de": "Laut Weltgesundheitsorganisation sterben jährlich rund 1,19 Millionen Menschen im Straßenverkehr. Für Fünf- bis Neunundzwanzigjährige ist er die häufigste Todesursache.",
   "source": "WHO Global Status Report on Road Safety 2023"
  },
  {
   "slide": 32,
   "label": "Kohle & Öl · Licht",
-  "text": "Kohle, später Öl und Gas lieferten billige Energie in nie gekannter Menge. Sie trieben Fabriken, Schiffe, Kraftwerke und die Düngerproduktion an.",
+  "lang": "en",
+  "text": "Coal, and later oil and gas, supplied cheap energy on an unprecedented scale. They powered factories, ships, power plants and fertilizer production.",
+  "text_de": "Kohle, später Öl und Gas lieferten billige Energie in nie gekannter Menge. Sie trieben Fabriken, Schiffe, Kraftwerke und die Düngerproduktion an.",
   "source": "Allgemeiner Forschungsstand"
  },
  {
   "slide": 33,
   "label": "Kohle & Öl · Schatten",
-  "text": "Seit Beginn der Industrialisierung ist der Kohlendioxidgehalt der Luft um mehr als die Hälfte gestiegen. Die Folgen tragen vor allem spätere Generationen.",
+  "lang": "en",
+  "text": "Since industrialization began, the carbon dioxide content of the air has risen by more than half. Later generations will bear most of the consequences.",
+  "text_de": "Seit Beginn der Industrialisierung ist der Kohlendioxidgehalt der Luft um mehr als die Hälfte gestiegen. Die Folgen tragen vor allem spätere Generationen.",
   "source": "NOAA Mauna Loa: rund 427 ppm (2025) gegenüber rund 280 ppm vorindustriell"
  },
  {
   "slide": 34,
   "label": "Flugzeug · Licht",
-  "text": "Am 17. Dezember 1903 hoben die Brüder Wright in North Carolina ab. Der erste Motorflug dauerte zwölf Sekunden.",
+  "lang": "en",
+  "text": "On December 17, 1903, the Wright brothers took off in North Carolina. The first powered flight lasted twelve seconds.",
+  "text_de": "Am 17. Dezember 1903 hoben die Brüder Wright in North Carolina ab. Der erste Motorflug dauerte zwölf Sekunden.",
   "source": "Smithsonian NASM"
  },
  {
   "slide": 35,
   "label": "Flugzeug · Schatten",
-  "text": "Schon im Ersten Weltkrieg fielen Bomben aus Flugzeugen. Im Zweiten Weltkrieg wurden ganze Städte zum Ziel, von Coventry über Hamburg bis Tokio.",
+  "lang": "en",
+  "text": "Bombs were already dropped from aircraft in the First World War. In the Second, entire cities became targets, from Coventry and Hamburg to Tokyo.",
+  "text_de": "Schon im Ersten Weltkrieg fielen Bomben aus Flugzeugen. Im Zweiten Weltkrieg wurden ganze Städte zum Ziel, von Coventry über Hamburg bis Tokio.",
   "source": "Allgemeiner Forschungsstand"
  },
  {
   "slide": 36,
   "label": "Chemie · Licht",
-  "text": "Fritz Haber gewann 1909 Ammoniak aus dem Stickstoff der Luft. Der Kunstdünger daraus ernährt heute schätzungsweise die Hälfte der Menschheit.",
+  "lang": "en",
+  "text": "In 1909, Fritz Haber produced ammonia from nitrogen in the air. The fertilizer made from it is estimated to feed about half of humanity today.",
+  "text_de": "Fritz Haber gewann 1909 Ammoniak aus dem Stickstoff der Luft. Der Kunstdünger daraus ernährt heute schätzungsweise die Hälfte der Menschheit.",
   "source": "Erisman et al., Nature Geoscience 2008"
  },
  {
   "slide": 37,
   "label": "Chemie · Schatten",
-  "text": "Am 22. April 1915 ließ die deutsche Armee bei Ypern Chlorgas aus fast 6.000 Flaschen ab. Haber hatte den Einsatz selbst vorbereitet.",
+  "lang": "en",
+  "text": "On April 22, 1915, the German army released chlorine gas from almost 6,000 cylinders near Ypres. Haber had personally prepared the attack.",
+  "text_de": "Am 22. April 1915 ließ die deutsche Armee bei Ypern Chlorgas aus fast 6.000 Flaschen ab. Haber hatte den Einsatz selbst vorbereitet.",
   "source": "C&EN, 100 Years of Chemical Weapons"
  },
  {
   "slide": 38,
   "label": "Kernspaltung · Licht",
-  "text": "1938 wiesen Otto Hahn und Fritz Straßmann die Kernspaltung nach, Lise Meitner deutete sie. Kernkraftwerke liefern heute knapp ein Zehntel des weltweiten Stroms.",
+  "lang": "en",
+  "text": "In 1938, Otto Hahn and Fritz Strassmann demonstrated nuclear fission, and Lise Meitner explained it. Nuclear plants now supply almost a tenth of the world's electricity.",
+  "text_de": "1938 wiesen Otto Hahn und Fritz Straßmann die Kernspaltung nach, Lise Meitner deutete sie. Kernkraftwerke liefern heute knapp ein Zehntel des weltweiten Stroms.",
   "source": "IAEA/IEA: ca. 9 % (2023)"
  },
  {
   "slide": 39,
   "label": "Kernspaltung · Schatten",
-  "text": "Am 6. und 9. August 1945 zerstörten zwei Atombomben Hiroshima und Nagasaki. Bis Ende des Jahres starben schätzungsweise mehr als 200.000 Menschen.",
+  "lang": "en",
+  "text": "On August 6 and 9, 1945, two atomic bombs destroyed Hiroshima and Nagasaki. By the end of the year, an estimated more than 200,000 people had died.",
+  "text_de": "Am 6. und 9. August 1945 zerstörten zwei Atombomben Hiroshima und Nagasaki. Bis Ende des Jahres starben schätzungsweise mehr als 200.000 Menschen.",
   "source": "Bulletin of the Atomic Scientists 2020: ca. 140.000 und 74.000"
  },
  {
   "slide": 40,
   "label": "Computer · Licht",
-  "text": "Der ENIAC wog rund 27 Tonnen und arbeitete mit über 17.000 Elektronenröhren. Ein heutiges Smartphone rechnet viele Millionen Mal schneller.",
+  "lang": "en",
+  "text": "ENIAC weighed about 27 tonnes and used more than 17,000 vacuum tubes. A smartphone today calculates many millions of times faster.",
+  "text_de": "Der ENIAC wog rund 27 Tonnen und arbeitete mit über 17.000 Elektronenröhren. Ein heutiges Smartphone rechnet viele Millionen Mal schneller.",
   "source": "Penn Engineering; ETHW"
  },
  {
   "slide": 41,
   "label": "Computer · Schatten",
-  "text": "Weltweit arbeiten inzwischen rund fünf Millionen Industrieroboter. Sie übernehmen schwere und gefährliche Arbeit und ersetzen zugleich Arbeitsplätze.",
+  "lang": "en",
+  "text": "About five million industrial robots are now at work worldwide. They take on heavy and dangerous work, and at the same time replace jobs.",
+  "text_de": "Weltweit arbeiten inzwischen rund fünf Millionen Industrieroboter. Sie übernehmen schwere und gefährliche Arbeit und ersetzen zugleich Arbeitsplätze.",
   "source": "IFR World Robotics 2026"
  },
  {
   "slide": 42,
   "label": "Genetik · Licht",
-  "text": "1953 beschrieben Watson und Crick die Doppelhelix, gestützt auf Daten von Rosalind Franklin. 2023 wurde die erste CRISPR-Therapie zugelassen, gegen Sichelzellanämie.",
+  "lang": "en",
+  "text": "In 1953, Watson and Crick described the double helix, based on data from Rosalind Franklin. In 2023, the first CRISPR therapy was approved, for sickle cell disease.",
+  "text_de": "1953 beschrieben Watson und Crick die Doppelhelix, gestützt auf Daten von Rosalind Franklin. 2023 wurde die erste CRISPR-Therapie zugelassen, gegen Sichelzellanämie.",
   "source": "FDA 2023 (Casgevy)"
  },
  {
   "slide": 43,
   "label": "Genetik · Schatten",
-  "text": "2018 ließ ein Forscher in China erstmals Kinder mit gezielt veränderten Genen zur Welt bringen. Er wurde dafür zu drei Jahren Haft verurteilt.",
+  "lang": "en",
+  "text": "In 2018, a researcher in China had children born with deliberately altered genes for the first time. He was sentenced to three years in prison.",
+  "text_de": "2018 ließ ein Forscher in China erstmals Kinder mit gezielt veränderten Genen zur Welt bringen. Er wurde dafür zu drei Jahren Haft verurteilt.",
   "source": "Science 2020; NPR 2019"
  },
  {
   "slide": 44,
   "label": "Raumfahrt · Licht",
-  "text": "Am 20. Juli 1969 landeten Neil Armstrong und Buzz Aldrin auf dem Mond. Hunderte Millionen Menschen verfolgten die Bilder live.",
+  "lang": "en",
+  "text": "On July 20, 1969, Neil Armstrong and Buzz Aldrin landed on the Moon. Hundreds of millions of people watched live.",
+  "text_de": "Am 20. Juli 1969 landeten Neil Armstrong und Buzz Aldrin auf dem Mond. Hunderte Millionen Menschen verfolgten die Bilder live.",
   "source": "NASA"
  },
  {
   "slide": 45,
   "label": "Raumfahrt · Schatten",
-  "text": "Die Mondrakete hatte einen Vorläufer: die V2, gebaut von KZ-Häftlingen. Heute gibt es weltweit rund 12.000 Atomsprengköpfe.",
+  "lang": "en",
+  "text": "The Moon rocket had a predecessor: the V-2, built by concentration camp prisoners. Today there are about 12,000 nuclear warheads worldwide.",
+  "text_de": "Die Mondrakete hatte einen Vorläufer: die V2, gebaut von KZ-Häftlingen. Heute gibt es weltweit rund 12.000 Atomsprengköpfe.",
   "source": "KZ-Gedenkstätte Mittelbau-Dora; SIPRI Yearbook 2026"
  },
  {
   "slide": 46,
   "label": "Internet · Licht",
-  "text": "Tim Berners-Lee schlug das World Wide Web 1989 am CERN vor. Heute nutzen rund sechs Milliarden Menschen das Internet.",
+  "lang": "en",
+  "text": "In 1989, Tim Berners-Lee proposed the World Wide Web at CERN. Today about six billion people use the internet.",
+  "text_de": "Tim Berners-Lee schlug das World Wide Web 1989 am CERN vor. Heute nutzen rund sechs Milliarden Menschen das Internet.",
   "source": "ITU Facts and Figures 2025"
  },
  {
   "slide": 47,
   "label": "Internet · Schatten",
-  "text": "Eine Studie des MIT ergab 2018: Falschmeldungen auf Twitter wurden um 70 Prozent häufiger geteilt als wahre Nachrichten.",
+  "lang": "en",
+  "text": "A 2018 MIT study found that false news on Twitter was 70 percent more likely to be shared than true news.",
+  "text_de": "Eine Studie des MIT ergab 2018: Falschmeldungen auf Twitter wurden um 70 Prozent häufiger geteilt als wahre Nachrichten.",
   "source": "Vosoughi, Roy, Aral, Science 2018"
  },
  {
   "slide": 48,
   "label": "Smartphone · Licht",
-  "text": "Im Januar 2007 wurde das erste iPhone vorgestellt. Karten, Kamera, Bank und Lexikon passen seitdem in eine Hand.",
+  "lang": "en",
+  "text": "In January 2007, the first iPhone was unveiled. Since then, maps, camera, bank and encyclopedia have fit in one hand.",
+  "text_de": "Im Januar 2007 wurde das erste iPhone vorgestellt. Karten, Kamera, Bank und Lexikon passen seitdem in eine Hand.",
   "source": "Allgemein bekannt"
  },
  {
   "slide": 49,
   "label": "Smartphone · Schatten",
-  "text": "Jedes Smartphone erzeugt laufend Standort- und Nutzungsdaten. 2013 wurde bekannt, dass Geheimdienste solche Daten in großem Umfang sammelten.",
+  "lang": "en",
+  "text": "Every smartphone constantly produces location and usage data. In 2013, it became known that intelligence agencies were collecting such data on a massive scale.",
+  "text_de": "Jedes Smartphone erzeugt laufend Standort- und Nutzungsdaten. 2013 wurde bekannt, dass Geheimdienste solche Daten in großem Umfang sammelten.",
   "source": "Snowden-Enthüllungen 2013"
  },
  {
   "slide": 50,
   "label": "KI · Licht",
-  "text": "Ende 2022 wurden Sprachmodelle für ein Massenpublikum nutzbar. Die Entwickler von AlphaFold, das rund 200 Millionen Proteinstrukturen vorhersagte, erhielten 2024 den Chemie-Nobelpreis.",
+  "lang": "en",
+  "text": "At the end of 2022, language models became available to a mass audience. The developers of AlphaFold, which predicted about 200 million protein structures, won the 2024 Nobel Prize in Chemistry.",
+  "text_de": "Ende 2022 wurden Sprachmodelle für ein Massenpublikum nutzbar. Die Entwickler von AlphaFold, das rund 200 Millionen Proteinstrukturen vorhersagte, erhielten 2024 den Chemie-Nobelpreis.",
   "source": "Nobelprize.org 2024; EMBL"
  },
  {
   "slide": 51,
   "label": "KI · Schatten",
-  "text": "Wie große KI-Modelle intern zu ihren Antworten kommen, verstehen selbst ihre Entwickler nur teilweise. Wer solche Systeme kontrolliert, ist eine offene Frage.",
+  "lang": "en",
+  "text": "How large AI models arrive at their answers is only partly understood, even by their developers. Who controls such systems remains an open question.",
+  "text_de": "Wie große KI-Modelle intern zu ihren Antworten kommen, verstehen selbst ihre Entwickler nur teilweise. Wer solche Systeme kontrolliert, ist eine offene Frage.",
   "source": "Deutung, keine Zahlenangabe"
  },
  {
   "slide": 52,
   "label": "Darüber hinaus · Licht",
-  "text": "2022 lieferte ein Fusionsexperiment in Kalifornien erstmals mehr Energie, als die Laser hineinsteckten. Hirnimplantate lassen gelähmte Menschen Computer steuern.",
+  "lang": "en",
+  "text": "In 2022, a fusion experiment in California released more energy than its lasers delivered, for the first time. Brain implants let paralysed people control computers.",
+  "text_de": "2022 lieferte ein Fusionsexperiment in Kalifornien erstmals mehr Energie, als die Laser hineinsteckten. Hirnimplantate lassen gelähmte Menschen Computer steuern.",
   "source": "LLNL National Ignition Facility, Dez. 2022"
  },
  {
   "slide": 53,
   "label": "Darüber hinaus · Schatten",
-  "text": "Jede dieser Techniken wird wieder zwei Seiten haben. Offen ist, wer über ihren Einsatz bestimmt: Staaten, Unternehmen oder wir alle.",
+  "lang": "en",
+  "text": "Each of these technologies will again have two sides. The open question is who decides how they are used: states, companies, or all of us.",
+  "text_de": "Jede dieser Techniken wird wieder zwei Seiten haben. Offen ist, wer über ihren Einsatz bestimmt: Staaten, Unternehmen oder wir alle.",
   "source": "Deutung"
  },
  {
   "slide": 54,
   "label": "In unserer Hand",
-  "text": "Zwischen dem ersten Faustkeil und der künstlichen Intelligenz liegen über drei Millionen Jahre. Geblieben ist die Frage, wofür wir unsere Werkzeuge einsetzen.",
+  "lang": "en",
+  "text": "More than three million years lie between the first hand axe and artificial intelligence. The question remains what we use our tools for.",
+  "text_de": "Zwischen dem ersten Faustkeil und der künstlichen Intelligenz liegen über drei Millionen Jahre. Geblieben ist die Frage, wofür wir unsere Werkzeuge einsetzen.",
   "source": "Deutung"
  },
  {
   "slide": 55,
   "label": "Abspann",
-  "text": "Was wir als Nächstes bauen, ist noch nicht entschieden.",
+  "lang": "en",
+  "text": "What we build next has not yet been decided.",
+  "text_de": "Was wir als Nächstes bauen, ist noch nicht entschieden.",
   "source": "Deutung"
  }
 ]

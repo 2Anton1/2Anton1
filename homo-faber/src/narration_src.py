@@ -56,7 +56,9 @@ T = [
  ("In unserer Hand", "Zwischen dem ersten Faustkeil und der künstlichen Intelligenz liegen über drei Millionen Jahre. Geblieben ist die Frage, wofür wir unsere Werkzeuge einsetzen.", "Deutung"),
  ("Abspann", "Was wir als Nächstes bauen, ist noch nicht entschieden.", "Deutung"),
 ]
-import json
-json.dump([{'slide': i + 1, 'label': a, 'text': b, 'source': c} for i, (a, b, c) in enumerate(T)], open('narration.json', 'w'), ensure_ascii=False, indent=1)
+import json, runpy
+# gesprochen wird die englische Fassung (narration_en.py); die deutsche bleibt als text_de erhalten
+EN = runpy.run_path('narration_en.py')['EN']
+json.dump([{'slide': i + 1, 'label': a, 'lang': 'en', 'text': EN[i], 'text_de': b, 'source': c} for i, (a, b, c) in enumerate(T)], open('narration.json', 'w'), ensure_ascii=False, indent=1)
 w = [len(b.split()) for _, b, _ in T]
 print(len(T), 'Texte, Wörter gesamt', sum(w), 'min/max', min(w), max(w), 'Zeichen', sum(len(b) for _, b, _ in T))

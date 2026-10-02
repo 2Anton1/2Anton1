@@ -8,8 +8,8 @@ Pipeline (Arbeitsverzeichnis = dieser Ordner):
 1. `npm install pptxgenjs sharp react react-dom react-icons` und `pip install numpy scipy lameenc --break-system-packages`
    (Node mit `NODE_PATH=$PWD/node_modules`, damit `apply_theme.js` pptxgenjs findet)
 2. `node render_layers.js`  → Bildebenen + Zusatzebenen (Speer, Rauch, Funken …) in `lay/`, `layers.json`
-3. `python3 narration_src.py` → `narration.json` (Sprechertexte)
-4. optional: Aufnahmen als `voice/v00.mp3 … voice/v54.mp3` ablegen (Index = Folie − 1)
+3. `python3 narration_src.py` → `narration.json` (gesprochen: Englisch aus `narration_en.py`, Deutsch als `text_de`)
+4. Aufnahmen als `voice/v00.mp3 … voice/v54.mp3` (Index = Folie − 1); v3 enthält die Higgsfield-Stimme „Nora“ (EN, +25 %), Job-IDs in `voice_jobs_en.json`
 5. `node plan.js`           → Folien-Dauern (max(alt, Sprechzeit + 2,5 s)), `durations.json`, `music_plan.json` inkl. Duck-Fenster
 6. `python3 music.py`       → Musik-Clips pro Folie in `audio/` (unter der Stimme −10 dB)
 7. `node build2.js`         → `raw2.pptx` + `meta.json`
