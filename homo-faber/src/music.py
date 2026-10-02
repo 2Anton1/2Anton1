@@ -302,7 +302,7 @@ def duck_env(n, windows):
 def write_mp3(buf, path):
     pcm = (np.clip(buf.T, -1, 1) * 32767).astype('<i2').tobytes()
     import lameenc
-    enc = lameenc.Encoder(); enc.set_bit_rate(160); enc.set_in_sample_rate(SR); enc.set_channels(2); enc.set_quality(2)
+    enc = lameenc.Encoder(); enc.set_bit_rate(int(os.environ.get("MUSIC_KBPS", 112))); enc.set_in_sample_rate(SR); enc.set_channels(2); enc.set_quality(2)
     open(path, 'wb').write(enc.encode(pcm) + enc.flush())
 
 if __name__ == '__main__':
